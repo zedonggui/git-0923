@@ -6,5 +6,6 @@ public class Test {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("githup");
+        System.out.println("push-test");
     }
 }
