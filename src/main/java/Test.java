@@ -5,5 +5,6 @@ public class Test {
         System.out.println("版本2");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("githup");
     }
 }
